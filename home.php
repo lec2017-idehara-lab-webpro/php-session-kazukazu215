@@ -10,7 +10,9 @@
   </head>
   <body>
     <a href='login.php'>Login</a></br>
+	<a href='list.php'>list</a></br>
     <a href='home.php'>Home</a></br><hr />
+
 
     <h1>ユーザのホーム画面</h1>
 
